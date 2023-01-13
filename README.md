@@ -17,6 +17,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Recai-Capkin&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="recai-capkin" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Recai-Capkin&show_icons=true&locale=en&count_private=true&theme=radical" alt="recai-capkin" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Recai-Capkin&show_icons=true&locale=en&count_private=true&theme=radical" alt="recai-capkin" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Recai-Capkin&count_private=true&theme=radical" alt="recai-capkin" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Recai-Capkin&count_private=true&theme=radical" alt="recai-capkin" />
